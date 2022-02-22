@@ -3,9 +3,9 @@
 This is my first Tensorflow project
 
 ## Tech/Framework Used
--Numpy
--Pandas
--Seaborn
--Matplotlib
--Sklearn
--Tensorflow
+- Numpy
+- Pandas
+- Seaborn
+- Matplotlib
+- Sklearn
+- Tensorflow
